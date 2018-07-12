@@ -12,12 +12,12 @@ public class Calculate{
 		System.out.println("Calculate...");
 		double x1 = 26, y1 = 23;
 		double summ1 = x1 * y1;
-		System.out.println("Sum " + summ);
+		System.out.println("Sum " + summ1);
 
 		System.out.println("Calculate...");
 		double x2 = 110, y2 = 55;
 		double summ2 = x2 / y2;
-		System.out.println("Sum " + summ);
+		System.out.println("Sum " + summ2);
 
 		System.out.println("Calculate...");
 		double x3 = 23;
